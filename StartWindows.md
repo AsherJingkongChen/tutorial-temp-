@@ -4,7 +4,7 @@
 
 - [ ] 安裝[__`Node.js ^16.11.0`__](https://nodejs.org/zh-tw/download/)
 
-- [ ] 取得主資料夾, 你可以在[`Code`](https://github.com/AsherJingkongChen/NullBot/blob/main/docs/scrs1.png)區塊下載.zip檔
+- [ ] 取得主資料夾, 你可以在[`Code`](https://github.com/AsherJingkongChen/tutorial-temp-/blob/main/scrs1.png)區塊下載.zip檔
   
   並解壓縮獲得 `valbot-main` 資料夾
   
