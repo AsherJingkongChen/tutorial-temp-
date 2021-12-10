@@ -1,3 +1,3 @@
 echo [LAUNCHER] The bot is trying to log-in to the server...
 cd /d "%~dp0"
-call node valbot.js
+call node tradepr.js
