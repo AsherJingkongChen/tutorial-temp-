@@ -10,7 +10,7 @@
   
 - [ ] 啟動 `install.bat` 執行安裝程序, 完成後可刪除
 
-- [ ] 開啟執行檔 `valbot.bat`
+- [ ] 開啟執行檔 `launcher.bat`
 
 - [ ] 終端機出現 `YES, accessed` 代表成功登入
 
